@@ -1,0 +1,3 @@
+gradio
+openai
+API.API_KEY = "enteryourkeyhere"
